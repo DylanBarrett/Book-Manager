@@ -1,0 +1,20 @@
+.container-fluid {
+  background-color: tan;
+  height: 100%;
+  background-size: cover;
+}
+
+.book-container {
+  margin: 5%;
+  padding: 5%;
+}
+
+.jumbotron {
+  background-color: lightskyblue;
+  color: black;
+  font-family: cursive;
+}
+
+.book-list-item {
+  display: block;
+}
